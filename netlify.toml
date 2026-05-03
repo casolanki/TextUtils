@@ -1,5 +1,5 @@
 [build]
-  command = "npx react-scripts build"
+  command = "npm run build"
   publish = "build"
 
 [build.environment]
